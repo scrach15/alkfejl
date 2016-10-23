@@ -65,7 +65,7 @@ Készítette: Szántó Attila
 2. Tervezés
     2.1. Architektúra terv
         2.1.1. Komponensdiagram
-![Kép felirata](docs/images/model.png)
+![Kép felirata](docs/images/modela.png)
  
         2.1.2. Oldaltérkép:
             Publikus:
@@ -118,7 +118,7 @@ Készítette: Szántó Attila
         2.2.1.Oldalvázlatok:
             Főoldal
 
-![Kép felirata](docs/images/main.png) 
+![Kép felirata](docs/images/maina.png) 
 
             Regisztrációs oldal
 
