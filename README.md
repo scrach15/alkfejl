@@ -1,5 +1,6 @@
 Dokumentáció
-Tanulók
+Tanuló Adminisztrációs Rendszer (TAR)
+
 Készítette: Szántó Attila
 1. Követelményanalízis
 1.1. Célkitűzés, projektindító dokumentum
