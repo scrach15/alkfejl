@@ -48,7 +48,7 @@ Készítette: Szántó Attila
             •	Meglévő tanuló törlése
             •	Meglévő kutya törlése
 
-    ![Kép felirata](docs/images/uml.jpg)
+![Kép felirata](docs/images/uml.jpg)
     
         Vegyünk példának egy egyszerű folyamatot:
         
