@@ -4,9 +4,10 @@ Tanuló Adminisztrációs Rendszer (TAR)
 Készítette: Szántó Attila
 
 1. Követelményanalízis
+
     1.1. Célkitűzés, projektindító dokumentum
-            A program legfőbb célja, hogy jól átláthatóan, és egyértelműen nyomon követhető legyen a kutyaiskola tanulói, és kutyáik egy webes vastagkliens, azaz egyoldali alkalmazás felhasználásával. Az adatok védelme érdekében legyen lehetőség regisztrációra, majd bejelentkezésre. Két felhasználó típus létezik, tanuló és oktató. Ezek közül, csak tanuló típusú felhasználó regisztrálható.
-        
+
+A program legfőbb célja, hogy jól átláthatóan, és egyértelműen nyomon követhető legyen a kutyaiskola tanulói, és kutyáik egy webes vastagkliens, azaz egyoldali alkalmazás felhasználásával. Az adatok védelme érdekében legyen lehetőség regisztrációra, majd bejelentkezésre. Két felhasználó típus létezik, tanuló és oktató. Ezek közül, csak tanuló típusú felhasználó regisztrálható        
         Funkcionális követelmények:
             •	Regisztráció
             •	Bejelentkezés
